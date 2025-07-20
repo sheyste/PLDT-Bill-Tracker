@@ -6,7 +6,7 @@ Records PLDT Bill in Google Sheets
 
 ## Steps
 
-1. Make a Blank Sheet
+1. Make a Blank Sheet or download and use the template https://github.com/sheyste/PLDT-Bill-Tracker/blob/main/PLDT%20Tracker%20Template.xlsx
    
    <img width="1778" height="904" alt="image" src="https://github.com/user-attachments/assets/8977ccc0-b828-4566-bd63-01499684fa3a" />
 
