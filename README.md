@@ -4,7 +4,7 @@ Records PLDT Bill in Google Sheets
 
 ----
 
-#Steps
+## Steps
 
 1. Make a Blank Sheet
    
